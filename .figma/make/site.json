@@ -1,0 +1,10 @@
+{
+  "description": "Showcase and sell delicious cakes with a visually appealing, responsive design tailored for Cream Club, enhancing customer engagement and sales.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

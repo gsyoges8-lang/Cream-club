@@ -15,7 +15,6 @@ logs/
 .tmp-*
 
 # Optional local/AI-specific files
-.figma/
 CLAUDE.md
 AGENTS.md
 .mise.toml
